@@ -2,9 +2,11 @@
 
 ****Crud de Categorias****
 
-*Banco de dados MYSQL
-*ORM Spring Data JPA
-*Flyway para migração de base de dados
+<ul>
+  <li>Banco de dados MYSQL</li>
+  <li>ORM Spring Data JPA</li>
+  <li>Flyway para migração de base de dados</li>
+</ul>
 
 Rodando o projeto:
 
@@ -13,7 +15,7 @@ Abra no eclipse
 Update Maven
 Run SpringBoot app
 
-<h1>*Testando via postman</h1>
+<h1>****Testando via postman****</h1>
 
 <ul>
   <li>GET http://localhost:8080/categorias</li>
