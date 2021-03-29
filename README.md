@@ -14,10 +14,10 @@ Update Maven
 Run SpringBoot app
 
 *Testando via postman
-GET http://localhost:8080/categorias
-GET http://localhost:8080/categorias/codigo
-POST http://localhost:8080/categorias
-PUT http://localhost:8080/categorias/codigo
+GET http://localhost:8080/categorias <br>
+GET http://localhost:8080/categorias/codigo <br>
+POST http://localhost:8080/categorias <br>
+PUT http://localhost:8080/categorias/codigo <br>
 DELETE http://localhost:8080/categorias/codigo
 
 
