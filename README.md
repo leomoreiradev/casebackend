@@ -13,11 +13,19 @@ Abra no eclipse
 Update Maven
 Run SpringBoot app
 
-*Testando via postman
-GET http://localhost:8080/categorias <br>
-GET http://localhost:8080/categorias/codigo <br>
-POST http://localhost:8080/categorias <br>
-PUT http://localhost:8080/categorias/codigo <br>
-DELETE http://localhost:8080/categorias/codigo
+<h1>*Testando via postman</h1>
+
+<ul>
+  <li>GET http://localhost:8080/categorias</li>
+  <li>GET http://localhost:8080/categorias/codigo</li>
+  <li>POST http://localhost:8080/categorias</li>
+  <li>PUT http://localhost:8080/categorias/codigo</li>
+  <li>DELETE http://localhost:8080/categorias/codigo</li>
+</ul>
+
+
+
+
+
 
 
